@@ -1,15 +1,16 @@
 @charset 'UTF-8';
 
+/*---ROOT---*/
 :root {}
-
+/*---HTML---*/
 html {}
-
+/*---BODY---*/
 .Body{}
-
+/*---HEADER---*/
 .Header{}
-
+/*---ASIDE---*/
 .Aside{}
-
+/*---MAIN---*/
 .Main{}
-
+/*---FOOTER---*/
 .Footer{}
